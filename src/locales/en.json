@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "home": "Home",
+    "solutions": "Solutions", 
+    "about": "About",
+    "investors": "Investors",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Workforce Mobility",
+    "subtitle": "POWERED BY AI",
+    "cta_invest": "WHY INVEST",
+    "cta_demo": "REQUEST DEMO"
+  },
+  "platform": {
+    "impact": "Platform Impact",
+    "discover": "DISCOVER THE EXPERIENCE",
+    "explore": "EXPLORE FULL SUITE"
+  },
+  "metrics": {
+    "compliance": "Compliance Precision",
+    "integration": "Accelerated Integration", 
+    "efficiency": "Investment Efficiency",
+    "returns": "Client Return"
+  },
+  "common": {
+    "learn_more": "Learn More",
+    "get_started": "Get Started",
+    "contact_us": "Contact Us"
+  }
+}
